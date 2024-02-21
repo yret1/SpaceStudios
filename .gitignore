@@ -25,3 +25,6 @@ dist-ssr
 
 # Custom Project Files
 # Add your custom project files here
+
+# Local Netlify folder
+.netlify
