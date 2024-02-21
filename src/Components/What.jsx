@@ -36,7 +36,7 @@ const What = () => {
   return (
     <section className="h-screen w-screen flex flex-col lg:flex-row justify-center items-center gap-0 lg:gap-10 bg-slate">
       <section className="flex justify-center h-96 items-center flex-1">
-        <div className="object-cover w-80 h-80 lg:w-4/6 lg:h-full rounded overflow-hidden shadow-lg shadow-black bg-[url('/src/assets/Services.jpg')] bg-center bg-cover"></div>
+        <div className="object-cover w-80 h-80 lg:w-4/6 lg:h-full rounded overflow-hidden shadow-lg shadow-black bg-[url('/src/assets/Services.avif')] bg-center bg-cover"></div>
       </section>
 
       <section

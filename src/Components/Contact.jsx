@@ -27,7 +27,7 @@ const Contact = () => {
         animate={isInview ? "animate" : "initial"}
         className="flex flex-col items-center gap-10 rounded-xl max-w-screen border-white border-4"
       >
-        <figure className="bg-[url('/src/assets/Contact.jpg')] rounded-t-lg h-96 w-full bg-cover bg-center"></figure>
+        <figure className="bg-[url('/src/assets/Contact.avif')] rounded-t-lg h-96 w-full bg-cover bg-center"></figure>
         <h2 className="text-white font-bold text-3xl">Get In Touch!</h2>
 
         <div className="text-white flex justify-start flex-col gap-4 p-10">
