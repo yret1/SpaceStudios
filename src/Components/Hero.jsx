@@ -1,4 +1,5 @@
 import arrow from "../assets/arrow.svg";
+import Cam from "../assets/Cam.svg";
 
 import { motion } from "framer-motion";
 const Hero = () => {
@@ -20,6 +21,8 @@ const Hero = () => {
         <h1 className="text-white w-10 flex justify-center ">I</h1>
         <h1 className="text-white w-10 flex justify-center ">O</h1>
         <h1 className="text-white w-10 flex justify-center ">S</h1>
+        <img src={Cam} alt="Logo" />
+
       </aside>
 
       <a href="/#about" className="w-screen">
